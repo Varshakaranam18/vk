@@ -30,7 +30,7 @@ Visit the live portfolio: [Your GitHub Pages URL]
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/Varshakaranam18/VK_PORTFOLIO.git
+git clone https://github.com/Varshakaranam18/vk.git
 ```
 
 2. Open `index.html` in your browser
@@ -42,7 +42,7 @@ This portfolio is deployed using GitHub Pages. To deploy:
 1. Push your code to GitHub
 2. Go to repository Settings > Pages
 3. Select the branch (usually `main` or `master`)
-4. Your site will be available at `https://varshakaranam18.github.io/VK_PORTFOLIO/`
+4. Your site will be available at `https://varshakaranam18.github.io/vk/`
 
 ## Contact
 
